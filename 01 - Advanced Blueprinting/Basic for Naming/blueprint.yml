@@ -5,11 +5,11 @@ inputs:
     description: We are going to name our machine after the eye color and birth year of our character!
     oneOf:
       - title: Luke Skywalker
-        const: luke
+        const: Luke
       - title: Han Solo
-        const: han
+        const: Han
       - title: Leia Organa
-        const: leia
+        const: Leia
 resources:
   Cloud_Machine_1:
     type: Cloud.Machine
